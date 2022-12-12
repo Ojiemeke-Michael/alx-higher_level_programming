@@ -1,0 +1,4 @@
+Help on built-in function system in os:
+
+ooss..ssyysstteemm = system(command)
+    Execute the command in a subshell.
